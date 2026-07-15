@@ -1,21 +1,28 @@
 # 📊 Data Analysis Portfolio
 
-A collection of data analysis and ML projects on real-world datasets.
+A collection of exploratory data analysis (EDA) projects on real-world datasets.
+Each project includes data cleaning, visualization, and statistical insights.
 
 ## 🗂️ Projects
 
-| # | Project | Domain | Techniques | Link |
-|---|---------|--------|------------|------|
-| 1 | Insurance Cost Prediction | Healthcare | EDA, Feature Engineering, Chi-Square, Regression | [View →](https://github.com/Lakshyagupta5532/insurance-cost-analysis) |
-| 2 | Movie Recommendation System | Entertainment | NLP, Cosine Similarity, Streamlit | [View →](https://github.com/Lakshyagupta5532/movie-recommender-system) |
-| 3 | Resume ATS Checker | HR Tech | NLP, YAKE, Gemini API, LLM | [View →](https://github.com/Lakshyagupta5532/resume-ats-checker) |
-| 4 | Customer Churn Prediction | Telecom | Classification, Logistic Regression, Random Forest | [View →](https://github.com/Lakshyagupta5532/customer-churn-prediction) |
+| # | Project | Domain | Dataset Size | Key Techniques | Notebook |
+|---|---------|--------|--------------|----------------|---------|
+| 1 | Insurance Cost Analysis | Healthcare | 1,338 rows × 7 cols | EDA, Feature Engineering, Chi-Square Test, Scaling | [View →](https://github.com/Lakshyagupta5532/Insurance-Cost-Analysis) |
+| 2 | IPL 2025 Analysis | Sports | 74 rows × 20 cols | EDA, GroupBy Aggregation, Value Counts, Feature Creation | [View →](https://github.com/Lakshyagupta5532/IPL_2025_Analysis_DS) |
 
 ## 🛠️ Skills Demonstrated
+
 - Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
 - Feature Engineering & Selection
-- Data Cleaning & Preprocessing  
-- ML Model Building & Evaluation
-- NLP & Text Processing
-- LLM API Integration
-- End-to-End Deployment (Streamlit Cloud)
+- Statistical Analysis (Chi-Square Test)
+- Data Visualization (Matplotlib, Seaborn)
+- GroupBy Aggregations & Filtering
+- Pandas & NumPy
+
+## 📌 Note
+
+More datasets being added regularly as I explore new domains and techniques.
+
+---
+⭐ Star this repo if you find it useful!
